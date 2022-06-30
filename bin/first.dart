@@ -19,5 +19,5 @@ bool func(number) {
 }
 
 void main() {
-  print(func(111010));
+  print(func(101010));
 }
