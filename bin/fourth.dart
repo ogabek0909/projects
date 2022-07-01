@@ -28,7 +28,7 @@ void main() {
   print("$z             ------    $price3");
   print('The total price is:');
   double tax = 0;
-  if (total > 130000) {
+  if (total >= 130000) {
     tax = total - total * 5 / 100;
   }
   print('The total price is:  ======   $tax');
