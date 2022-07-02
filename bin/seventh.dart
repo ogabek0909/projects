@@ -1,5 +1,5 @@
 void main() {
-  String n = 'code';
+  String n = 'codes';
   int y = n.length;
   String t = '*';
   print(t * y);
