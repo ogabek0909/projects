@@ -8,5 +8,5 @@ int func(Map t) {
 }
 
 void main() {
-  print(func({1: 341, 'hello': 23, 3: 21}));
+  print(func({1: 341, 3: 23, 4: 21}));
 }
